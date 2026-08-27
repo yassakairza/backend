@@ -1,0 +1,10 @@
+{
+  "name": "dnd-charsheet-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel serverless API that stores and serves shared D&D character sheets in MongoDB.",
+  "dependencies": {
+    "mongoose": "^8.5.0",
+    "nanoid": "^3.3.7"
+  }
+}
